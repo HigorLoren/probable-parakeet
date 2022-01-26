@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/probable-parakeet/static/css/main.e2ea59a5.css",
-    "main.js": "/probable-parakeet/static/js/main.5c9e719b.js",
+    "main.js": "/probable-parakeet/static/js/main.3d0de6b2.js",
     "index.html": "/probable-parakeet/index.html",
     "main.e2ea59a5.css.map": "/probable-parakeet/static/css/main.e2ea59a5.css.map",
-    "main.5c9e719b.js.map": "/probable-parakeet/static/js/main.5c9e719b.js.map"
+    "main.3d0de6b2.js.map": "/probable-parakeet/static/js/main.3d0de6b2.js.map"
   },
   "entrypoints": [
     "static/css/main.e2ea59a5.css",
-    "static/js/main.5c9e719b.js"
+    "static/js/main.3d0de6b2.js"
   ]
 }
