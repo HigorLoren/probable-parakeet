@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/probable-parakeet/static/css/main.e2ea59a5.css",
+    "main.js": "/probable-parakeet/static/js/main.5c9e719b.js",
+    "index.html": "/probable-parakeet/index.html",
+    "main.e2ea59a5.css.map": "/probable-parakeet/static/css/main.e2ea59a5.css.map",
+    "main.5c9e719b.js.map": "/probable-parakeet/static/js/main.5c9e719b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2ea59a5.css",
+    "static/js/main.5c9e719b.js"
+  ]
+}
